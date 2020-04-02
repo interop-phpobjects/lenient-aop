@@ -11,6 +11,5 @@
         "psr-4": {
             "Interop\\Lenient\\Aop\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
